@@ -1,0 +1,146 @@
+{
+  "intents": [
+    {
+      "tag": "salam",
+      "patterns": [
+        "Hai",
+        "Hi",
+        "Halo",
+        "Apa Kabar",
+        "Selamat Pagi",
+        "Selamat Siang",
+        "Selamat Malam",
+        "Salam",
+        "Ping",
+        "P"
+      ],
+      "responses": [
+        "Halo!",
+        "Hai",
+        "Halo, ada yang bisa saya bantu?",
+        "Halo selamat datang",
+        "Hai Kawan"
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": [
+        "Dadah",
+        "Selamat Tinggal",
+        "Dah",
+        "Daah",
+        "Semoga harimu menyenangkan",
+        "Ok makasih",
+        "Sampai Jumpa Lagi",
+        "Ok bye"
+      ],
+      "responses": [
+        "Sampai jumpa lagi yaa",
+        "Kalau ada masalah, hubungi aku lagi ya",
+        "Semoga harimu menyenangkan!"
+      ]
+    },
+    {
+      "tag": "nama",
+      "patterns": [
+        "nama kamu siapa?",
+        "lu siapa?",
+        "siapa sih lo?",
+        "lu sape ?",
+        "nama lo sape dah ?",
+        "nama?"
+      ],
+      "responses": [
+        "Namaku Rochan, salam kenal kak!",
+        "Halo, aku Rochan!",
+        "Kenalin, aku Rochan!"
+      ]
+    },
+    {
+      "tag": "pekerjaan",
+      "patterns": [
+        "lu ngapain?",
+        "pekerjaan kamu apa?",
+        "lu kerja apa?",
+        "tugas kamu apa?",
+        "tugas lo ngapain?"
+      ],
+      "responses": [
+        "Aku bantu kak Robin dalam mengelola aplikasi OmniChannel",
+        "Tugasku jadi asisten di aplikasi OmniChannel buatan kak Robin"
+      ]
+    },
+    {
+      "tag": "omnichannel",
+      "patterns": [
+        "emang omnichannel apa si?",
+        "apa tuh omnichannel?",
+        "emang omni channel apa sih?",
+        "wah apa tuh omni channel?",
+        "omnichannel emang apa?"
+      ],
+      "responses": [
+        "OmniChannel adalah strategi pemasaran dan penjualan yang mengintegrasikan semua saluran yang tersedia, baik itu offline maupun online. Tujuannya untuk memberikan pengalaman konsisten dan terpadu kepada pelanggan. "
+      ]
+    },
+    {
+      "tag": "omnichannel_typo",
+      "patterns": [
+        "emang omnichannel apa ?",
+        "apaan si omnichannel?",
+        "emang omni channel apa sih?",
+        "wah apa tuh omni channel?",
+        "omnichannel emang apa?",
+        "omnichannel itu apa sih"
+      ],
+      "responses": [
+        "OmniChannel kaak, jangan bikin emosi deh",
+        "Typo kak, OmniChannel kali maksudnya"
+      ]
+    },
+    {
+      "tag": "youtube",
+      "patterns": [
+        "channel nya bisa diliat dimana?",
+        "mana linknya?",
+        "minta link dong!",
+        "youtube nya apa?",
+        "dimana urlnya?"
+      ],
+      "responses": [
+        "Bisa dilihat di https://youtube.com/RobinOmniChannel, jangan lupa subscribe ya kak!",
+        "Ini kak link nya https://youtube.com/RobinOmniChannel. Disubscribe ya kak!"
+      ]
+    },
+    {
+      "tag": "komunitas",
+      "patterns": [
+        "kalau mau tanya-tanya kemana ya?",
+        "ada komunitasnya ga?",
+        "ada grupnya ga?",
+        "grup nya apa?",
+        "kalau mau nanya kodingan kemana ya?",
+        "bisa bantu kodingan ga?",
+        "bisa bantuin ngoding?"
+      ],
+      "responses": [
+        "Langsung aja join ke telegram komunitas RobinOmniChannel kak disini https://t.me/RobinOmniChannel",
+        "Boleh join kesini kak https://t.me/RobinOmniChannel"
+      ]
+    },
+    {
+      "tag": "kemampuan",
+      "patterns": [
+        "kamu bisa apa?",
+        "apa yang bisa anda lakukan?",
+        "kamu bisa ngapain aja?",
+        "lo bisa ngapain?",
+        "apa kemampuan lo?"
+      ],
+      "responses": [
+        "Kakak bisa tanya-tanya nama aku, apa yang aku lakukan dan yang berhubungan dengan RobinOmniChannel",
+        "Pokoknya yang berhubungan sama RobinOmniChannel kak :)"
+      ]
+    }
+  ]
+}
